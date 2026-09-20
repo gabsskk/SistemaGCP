@@ -33,7 +33,7 @@ A documentação completa do projeto está disponível na pasta [`docs`](docs/).
 - [Modelo Lógico](docs/modelos/)
 - [Modelo Físico](docs/modelos/)
 
-### Requisitos
+### REQUISITOS
 
 - Requisitos funcionais
 - Requisitos não funcionais
