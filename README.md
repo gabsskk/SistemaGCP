@@ -16,7 +16,7 @@ O projeto irá desenvolver um sistema de gerenciamento de pastas de um arquivo f
 - Isabeli Helena Valério
 - Nathan David Ramos
 
-## TECNOLOGIAS UTILIZADAS
+## TECNOLOGIAS
 
 - Linguagem de programação DART
 - Git e Github
