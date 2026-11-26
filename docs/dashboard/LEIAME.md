@@ -1,5 +1,5 @@
 ## DASHBOARD
 
-![Dashboard página 1](pagPastas.png)
-![Dashboard página 2](pagEmpresas.png)
-![Dashboard página 3](pagCategorias.png)
+![Dashboard página 1](pastas.png)
+![Dashboard página 2](empresas.png)
+![Dashboard página 3](categorias.png)
