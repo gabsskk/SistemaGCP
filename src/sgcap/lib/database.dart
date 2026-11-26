@@ -5,7 +5,7 @@ class Database {
   static const String _host = "localhost";
   static const int _port = 3306;
   static const String _user = "root";
-  static const String _password = "Nathanbrazil1!"; 
+  static const String _password = "xxxxxxxcd C:\Users\gabriel\OneDrive\Desktop\PROJETO\CODIGO\SistemaGCP"; 
   static const String _dbName = "sgcap";
 
  
